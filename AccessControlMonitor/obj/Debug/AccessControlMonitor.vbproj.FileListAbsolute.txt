@@ -1,0 +1,11 @@
+D:\Projects\AccessControlMonitor\bin\Debug\AccessControlMonitor.exe.config
+D:\Projects\AccessControlMonitor\bin\Debug\AccessControlMonitor.exe
+D:\Projects\AccessControlMonitor\bin\Debug\AccessControlMonitor.pdb
+D:\Projects\AccessControlMonitor\bin\Debug\AccessControlMonitor.xml
+D:\Projects\AccessControlMonitor\obj\Debug\AccessControlMonitor.vbproj.AssemblyReference.cache
+D:\Projects\AccessControlMonitor\obj\Debug\AccessControlMonitor.Resources.resources
+D:\Projects\AccessControlMonitor\obj\Debug\AccessControlMonitor.vbproj.GenerateResource.cache
+D:\Projects\AccessControlMonitor\obj\Debug\AccessControlMonitor.vbproj.CoreCompileInputs.cache
+D:\Projects\AccessControlMonitor\obj\Debug\AccessControlMonitor.exe
+D:\Projects\AccessControlMonitor\obj\Debug\AccessControlMonitor.xml
+D:\Projects\AccessControlMonitor\obj\Debug\AccessControlMonitor.pdb
