@@ -3,6 +3,11 @@ This is a Server/Client UDP application for access control systems based on the 
 
 This is a work in progress and developped out of GitHub (this repository will not get updated ATM)
 
+This project is written in VB.NET, targeting .NET9
+
+
+
+
 ## UHPPOTED
 Thanks to the awesome work of [uhppoted](https://github.com/uhppoted) in providing a .NET API (https://github.com/uhppoted/uhppoted-dll)
 
@@ -13,6 +18,9 @@ I have now a working concept
 
 ## ACS.Messaging
 Many thanks to [Jonathon Aroutsidis](https://github.com/Johno-ACSLive) for ACS.Messaging
+
+
+
 
 ## Notes
 The Server (AccessControlMonitor) is a Windows Service, and must be registered into Services (sc.exe).
