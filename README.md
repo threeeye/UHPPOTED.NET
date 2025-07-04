@@ -27,7 +27,9 @@ The Server (AccessControlMonitor) is a Windows Service, and must be registered i
 
 The Client (AccessControl) is the GUI.
 
+
 DLLs:
+
 Cipher9 - is my own Encription method (used for getting SQL connection)
 
 ACS.Messaging - this is the Server/Client UDP Socket from here [ACS-Messaging](https://github.com/Johno-ACSLive/ACS-Messaging)
